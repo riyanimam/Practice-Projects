@@ -1,4 +1,5 @@
 #Variables being instantiated 
+#This was uploaded to GitHub
 
 num = 100
 letter = 'a'
