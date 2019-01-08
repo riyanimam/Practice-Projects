@@ -1,0 +1,50 @@
+body {
+	font-family: "Georgia";
+	background-color: #00FFFF;
+}
+
+h1, h2, h3, h4 {
+	font-family: "Verdana";
+}
+
+h1, h2 {
+	text-align: center;
+	margin-top: 20px;
+	background-color: #7FFFD4;
+    color: 	#7CFC00
+	border:2px solid #7FFFD4;
+	padding:5px;
+	
+}
+
+html, body {
+    width: 100%;
+}
+
+table {
+	background-color: #90EE90;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-image: url('images/food.jpg');
+}
+
+.box {
+	background-color: #90EE90;
+    color: #000000;
+    width:300px;
+    height:300px;
+    position:fixed;
+    margin-left:-150px; /* half of width */
+    margin-top:-150px;  /* half of height */
+    top:50%;
+    left:50%;
+}
+
+form { 
+	margin: 0 auto; 
+	width:250px;
+}
